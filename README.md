@@ -20,5 +20,5 @@
 Example:
 ```bash
 python3 pyobf.py your_script.py
-
+```
 ![1000761102](https://github.com/user-attachments/assets/4fac01b7-1356-4f57-ab5a-d7687637d9ab)
